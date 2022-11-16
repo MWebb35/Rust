@@ -1,0 +1,6 @@
+fn main() {
+    let number_one = 50; //Intilise var 1
+    let number_two = 7; //Intilise var 2
+
+    println!("{}", number_one/number_two) //Print division to the console
+}
