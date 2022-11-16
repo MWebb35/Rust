@@ -1,0 +1,3 @@
+fn main() { //Declaration of the main function
+    println!("Coding is Cool"); //PrintLine to the console
+}
